@@ -1,2 +1,2 @@
-# jogo em Python
+# Jogo em Python
 Jogo em Python
